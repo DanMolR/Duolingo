@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+figure.purple-line {
+  background-color: #A664FF;;
+  height: 18px;
+  width: 1920;
+}
+header div {
+  margin: 30px 200px;
+}
+img.purple-icon {
+  height: 57.87PX;
+  width: 57.87PX;
+}
+span.marvilo {
+  font-family: "Lato", sans-serif;
+  font-size: 28.85px;
+  margin: 20px;
+  vertical-align: 50%;
+}
+span.bold {font-weight: bold;}
+
+main {
+  padding: 0px 200px 250px;
+}
+h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 57.4px;
+  margin: 50px auto;
+}
+.texto {
+  font-family: "Inter", sans-serif;
+  width: 1520px;
+  font-size: 49.2px;
+  font-weight: 300 ;
+  text-align: justify;
+}
